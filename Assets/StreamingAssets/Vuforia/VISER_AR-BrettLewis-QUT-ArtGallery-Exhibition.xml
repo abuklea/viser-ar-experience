@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="6" size="0.290000 0.162555" />
+    <ImageTarget name="3" size="0.290000 0.162634" />
+    <ImageTarget name="1" size="0.290000 0.163238" />
+    <ImageTarget name="8" size="0.290000 0.219678" />
+    <ImageTarget name="7" size="0.290000 0.163333" />
+    <ImageTarget name="5" size="0.290000 0.163333" />
+    <ImageTarget name="4" size="0.220000 0.234858" />
+    <ImageTarget name="2" size="0.240000 0.135172" />
+    <ImageTarget name="BL-Coral-8" size="0.240000 0.180000" />
+    <ImageTarget name="BL-Coral-6" size="0.240000 0.135000" />
+    <ImageTarget name="BL-Coral-7" size="0.240000 0.135000" />
+    <ImageTarget name="BL-Coral-5" size="0.240000 0.135000" />
+    <ImageTarget name="BL-Coral-4" size="0.170000 0.181333" />
+    <ImageTarget name="BL-Coral-3" size="0.240000 0.135000" />
+    <ImageTarget name="BL-Coral-2" size="0.240000 0.135000" />
+    <ImageTarget name="BL-Coral-1" size="0.240000 0.135000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IFEAnnualReport2018_Cover_512x724_Target" size="0.230000 0.325234" />
+    <ImageTarget name="IFEAnnualReport2018_SeaSponge_880x480_Target" size="0.230000 0.125455" />
+    <ImageTarget name="IFEAnnualReport2018_DigitalObs_855x480_Target" size="0.230000 0.129123" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ViseR_Logo_512x512_Target" size="0.150000 0.150000" />
+    <ImageTarget name="Underwater_Flythrough_800x450_Target" size="0.288000 0.162000" />
+    <ImageTarget name="SnowyHydroDC_ImmersiveTheatre_360_800x450_Target" size="0.288000 0.162000" />
+    <ImageTarget name="VirtualReef-Flocking-800x450_Target" size="0.288000 0.162000" />
+    <ImageTarget name="GroundTruth_Brisbane_836x470_Target" size="0.288000 0.161914" />
+  </Tracking>
+</QCARConfig>

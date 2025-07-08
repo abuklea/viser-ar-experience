@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GeoSandbox1" size="0.242900 0.136681" />
+    <ImageTarget name="Sandbox2" size="0.242900 0.136946" />
+    <ImageTarget name="Sandbox1" size="0.242900 0.136946" />
+  </Tracking>
+</QCARConfig>
